@@ -37,7 +37,6 @@
 <a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
 
 ------------------------------
-> If you do not understand anything then there is a [translate](#Translate).
 
 ## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/code-slash.svg"/>
 
